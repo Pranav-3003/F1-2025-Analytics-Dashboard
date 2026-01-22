@@ -38,4 +38,3 @@ This project visualizes driver performance, team dominance, race outcomes, and c
 
 ---
 
-## 📂 Project Structure
