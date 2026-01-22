@@ -66,7 +66,6 @@ with st.sidebar:
                     "Top 10 Finish Counts",
                     "Fastest Lap Counts",
                     "DNFs by Drivers",
-                    "DNFs per Track",
                     "Points Progression",
                     "Finish Positions (Top 10)"
                 ]
@@ -179,7 +178,6 @@ elif category == "Teams":
     render_team_analysis(
     raceResults=raceResults,
     sprintResults=sprintResults,
-    calendar=calendar,
     analysis_type=team_analysis,
     highlight_team=highlight_team,
     opacity=opacity
@@ -254,3 +252,4 @@ st.markdown(
     "<p style='text-align:center;font-size:12px;'>Formula 1 – 2025 Data Analysis Dashboard</p>",
     unsafe_allow_html=True
 )
+
