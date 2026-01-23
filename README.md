@@ -1,6 +1,6 @@
 # 🏎️ Formula 1 – 2025 Analytics Dashboard
 
-🔗 **Live App:** https://pranav-3003-f1-2025-analytics.streamlit.app
+🔗 **Live App:** https://f1-2025-analytics.streamlit.app
 
 An interactive data analytics dashboard for the **Formula 1 2025 season**, built using **Python and Streamlit**.  
 This project visualizes driver performance, team dominance, race outcomes, and championship progression through clean and insightful charts.
